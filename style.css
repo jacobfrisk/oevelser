@@ -11,7 +11,9 @@ img {
   height: auto;
 }
 
-.oevelse1 {
+.oevelse-1 {
   display: grid;
-  grid-template-columns: 1fr;
+  grid-template-columns: 1fr 1fr;
+  gap: 10rem;
+  place-items: center;
 }
